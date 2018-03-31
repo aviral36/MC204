@@ -1,8 +1,8 @@
 # MC204
 ## Scientific Computing - Lab File
-<br>
+[![HitCount](http://hits.dwyl.com/aviral36/MC204.svg)](http://hits.dwyl.com/aviral36/MC204)
+
 <hr>
-<br>
 
 ## Practical 1: To implement Bisection Method</b>
 
